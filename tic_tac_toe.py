@@ -104,6 +104,5 @@ while True:
     if check_winner(board, 0):
         print("AI won")
         break
-# board[i] = " "
 
-# pass
+
