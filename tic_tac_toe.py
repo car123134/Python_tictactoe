@@ -104,14 +104,6 @@ while True:
     if check_winner(board, 0):
         print("AI won")
         break
-
-
-# for x in free:
-#     if check_winner(board, 0):
-#         show(board)
-#         return
-#     else:
-#         board[x] = " "
-#         pass
 # board[i] = " "
+
 # pass
